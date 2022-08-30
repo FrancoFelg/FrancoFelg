@@ -5,7 +5,6 @@
 
 - 📖 I'm studying the Superior Technical Degree in Software and doing Bootcamps by myself. 
 - 💼 I work as a Trainee in a Software company, where I'm currently working as a Fullstack developer, I design and create databases, queries, frontend and backend.
-- 
 ---
 
 ## Technologies
